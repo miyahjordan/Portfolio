@@ -2,7 +2,7 @@
 A repository dedicated to my portfolio projects!
 
 <br><h2>🧭 Table of Contents</h2>
-<a href="https://github.com/miyahj/Portfolio/edit/main/README.md#sql">SQL</a>
+<a href="https://github.com/miyahj/Portfolio/main/README.md#sql">SQL</a>
 <br><a href="">Excel</a>
 <br><a href="">Google Sheets</a>
 <br><a href="">Tableau</a>
