@@ -7,7 +7,7 @@ A repository dedicated to my portfolio projects!
 <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#googlesheets">Google Sheets</a>
 <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#tableau">Tableau</a>
 
-<br><h2> <img src="URL" />SQL</h2>
+<br><h2> <img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" height=30/>SQL</h2>
 <table>
   <tr><th>Project Name</th>
   <th>Area of Analysis</th>
@@ -20,8 +20,7 @@ A repository dedicated to my portfolio projects!
   </tr>
 </table>
 
-<br><h2><img src="![image](https://github.com/user-attachments/assets/29c4c15d-f519-44df-8d49-631e6140a0ea)
-" />Excel</h2>
+<br><h2><img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" height = 25 /> Excel</h2>
 <table>
   <tr>
     <th>Project Name</th>
@@ -35,7 +34,7 @@ A repository dedicated to my portfolio projects!
   </tr>
 </table>
 
-<br><h2><img src="URL" />Google Sheets</h2>
+<br><h2><img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" height= 30/> Google Sheets</h2>
 <table>
   <tr>
     <th>Project Name</th>
@@ -49,7 +48,7 @@ A repository dedicated to my portfolio projects!
   </tr>
 </table>
 
-<br><h2><img src="URL" />Tableau</h2>
+<br><h2><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height= 25/>Tableau</h2>
 <table>
   <tr>
     <th>Project Name</th>
