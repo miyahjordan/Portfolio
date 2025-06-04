@@ -16,9 +16,14 @@ A repository dedicated to my portfolio projects!
   <th>Description</th>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>8-Week SQL Challenge</td>
     <td>Data analysis, Data transformation, Data cleaning</td>
-    <td>8 different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates by ability to wrtie in SQL and my profeciency with solving challenges.</td>
+    <td>8 different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates by ability to write SQL queries to solve challenges.</td>
   </tr>
 </table>
 
@@ -41,7 +46,17 @@ A repository dedicated to my portfolio projects!
   <tr>
     <th>Project Name</th>
     <th>Description</th>
-    <th>Spreadsheet Link</th>
+    <th>Dashboard Link</th>
+  </tr>
+  <tr>
+    <td>Data Validation Project</td>
+    <td>A project completed at Calbright College used to teach data validation. Demonstrates my alblity to use data validation techniques with Google Sheets.</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1IT8i8bo36YwlakAAXiM4qhUXYYqGsIrO/edit?usp=sharing&ouid=107607730530146632722&rtpof=true&sd=true">Link</a></td>
+  </tr>
+  <tr>
+    <td>Creating a Data Visualization Project</td>
+    <td>A project completed as a part of the Data Analysis certification program at Calbright College. Takes a Google spreadsheet filled with fake data and tasks with creating a scorecard chart and a horizontal bar graph. Demonstarates my ability to create a dashboard in Google Sheets.</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1U0gOwBLQoL_j66rM8ErJhDzlYZQh9_PR/edit?usp=sharing&ouid=107607730530146632722&rtpof=true&sd=true">Link</a></td>
   </tr>
   <tr>
     <td></td>
