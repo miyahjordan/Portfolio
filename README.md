@@ -1,5 +1,5 @@
 <h1 align="center" #> 📔 Miyah's Portfolio </h1>
-A repository dedicated to my portfolio projects!
+<p align="center">A repository dedicated to my portfolio projects!</p>
 
 <br><h2 align="center">🧭 Table of Contents</h2>
 <p align="center">
@@ -11,19 +11,19 @@ A repository dedicated to my portfolio projects!
 
 <br><h2 align="center"> <img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" height=30/>SQL</h2>
 <table>
-  <tr><th>Project Name</th>
+<tr><th>Project Name</th>
   <th>Area of Analysis</th>
   <th>Description</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="">Intermediate SQL Queries</a></td>
+    <td>Data analysis, Data queries</td>
+    <td>Project completed at Calbright College to improve SQL queries. This project involves writing SQL queries and explaining the results for 5 different tasks. Demonstrates my ability to write and understand intermediate queries to solve tasks.</td>
   </tr>
   <tr>
-    <td>8-Week SQL Challenge</td>
+    <td><a href="">8-Week SQL Challenge</a></td>
     <td>Data analysis, Data transformation, Data cleaning</td>
-    <td>8 different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates by ability to write SQL queries to solve challenges.</td>
+    <td>Eight different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates by ability to write SQL queries to solve challenges.</td>
   </tr>
 </table>
 
