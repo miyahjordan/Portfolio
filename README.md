@@ -11,7 +11,7 @@
 </p>
 
 <br><h2 align="center"> <img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" height=30/>SQL</h2>
-<table>
+<table align="center">
 <tr><th>Project Name</th>
   <th>Area of Analysis</th>
   <th>Description</th>
@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td><a href='https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Data%20Presentation'>Data Presentation Project*</a></td>
-    <td>Presentation skills, Data analysis, Data visualization</td>
+    <td>Presentation skills, Data analysis, Data cleaning, Data visualization</td>
     <td>Project completed at Calbright College to practice data presentation skills. A data set from Kaggle was selected to conduct data cleaning, analysis, and visualization to present findings. Presentation involved video recording to fully analyze presentation skills. Demonstrated my ability to work with fresh data, solve problems, create insights, and present to an audience.</td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
 </table>
 
 <br><h2 align="center"><img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_Excel_Logo_512px.png" height = 25 /> Excel</h2>
-<table>
+<table align="center">
   <tr>
     <th>Project Name</th>
     <th>Description</th>
@@ -48,7 +48,7 @@
 </table>
 
 <br><h2 align="center"><img src="https://cdn.worldvectorlogo.com/logos/google-sheets-logo-icon.svg" height= 30/> Google Sheets</h2>
-<table>
+<table align="center">
   <tr>
     <th>Project Name</th>
     <th>Description</th>
@@ -72,7 +72,7 @@
 </table>
 
 <br><h2 align="center"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height= 25/>Tableau</h2>
-<table>
+<table align="center">
   <tr>
     <th>Project Name</th>
     <th>Description</th>
