@@ -2,9 +2,9 @@
 A repository dedicated to my portfolio projects!
 
 <br><h2>🧭 Table of Contents</h2>
-<a href="https://github.com/miyahj/Portfolio/blob/main/README.md#sql">SQL</a>
-<br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#excel">Excel</a>
-<br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#googlesheets">Google Sheets</a>
+<a href="https://github.com/miyahj/Portfolio/blob/main/README.md#-sql">SQL</a>
+<br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#-excel">Excel</a>
+<br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#-google-sheets">Google Sheets</a>
 <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#tableau">Tableau</a>
 
 <br><h2> <img src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg" height=30/>SQL</h2>
