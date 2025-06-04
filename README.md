@@ -16,7 +16,7 @@
   <th>Description</th>
   </tr>
   <tr>
-    <td><a href="">Intermediate SQL Queries</a></td>
+    <td><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Intermediate%20SQL%20Queries">Intermediate SQL Queries</a></td>
     <td>Data analysis, Data queries</td>
     <td>Project completed at Calbright College to improve SQL queries. This project involves writing SQL queries and explaining the results for 5 different tasks. Demonstrates my ability to write and understand intermediate queries to solve tasks.</td>
   </tr>
