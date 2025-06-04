@@ -27,7 +27,7 @@
     <td>Project completed at Calbright College to practice data presentation skills. A data set from Kaggle was selected to conduct data cleaning, analysis, and visualization to present findings. Presentation involved video recording to fully analyze presentation skills. Demonstrated my ability to work with fresh data, solve problems, create insights, and present to an audience.</td>
   </tr>
   <tr>
-    <td><a href="">8-Week SQL Challenge*</a></td>
+    <td><a href="https://github.com/miyahj/8-Week-SQL-Challenge">8-Week SQL Challenge*</a></td>
     <td>Data analysis, Data transformation, Data cleaning</td>
     <td>Eight different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates by ability to write SQL queries to solve challenges.</td>
   </tr>
