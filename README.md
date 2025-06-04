@@ -1,5 +1,6 @@
 <h1 align="center" #> 📔 Miyah's Portfolio </h1>
 <p align="center">A repository dedicated to my portfolio projects!</p>
+<br><p align='center'>Projects with an asterisk (*) next to them are <b>in progress</b></p>
 
 <br><h2 align="center">🧭 Table of Contents</h2>
 <p align="center">
@@ -21,7 +22,12 @@
     <td>Project completed at Calbright College to improve SQL queries. This project involves writing SQL queries and explaining the results for 5 different tasks. Demonstrates my ability to write and understand intermediate queries to solve tasks.</td>
   </tr>
   <tr>
-    <td><a href="">8-Week SQL Challenge</a></td>
+    <td><a href='https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Data%20Presentation'>Data Presentation Project*</a></td>
+    <td>Presentation skills, Data analysis, Data visualization</td>
+    <td>Project completed at Calbright College to practice data presentation skills. A data set from Kaggle was selected to conduct data cleaning, analysis, and visualization to present findings. Presentation involved video recording to fully analyze presentation skills. Demonstrated my ability to work with fresh data, solve problems, create insights, and present to an audience.</td>
+  </tr>
+  <tr>
+    <td><a href="">8-Week SQL Challenge*</a></td>
     <td>Data analysis, Data transformation, Data cleaning</td>
     <td>Eight different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates by ability to write SQL queries to solve challenges.</td>
   </tr>
@@ -32,7 +38,7 @@
   <tr>
     <th>Project Name</th>
     <th>Description</th>
-    <th>Spreadsheet Link</th>
+    <th>Dashboard Link</th>
   </tr>
   <tr>
     <td></td>
