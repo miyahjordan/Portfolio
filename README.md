@@ -1,4 +1,4 @@
-<h1 align="center" #> 📔 Miyah's Portfolio </h1>
+<h1 align="center" #> 📒 Miyah's Portfolio </h1>
 <p align="center">A repository dedicated to my portfolio projects!</p>
 <br><p align='center'>Projects with an asterisk (*) next to them are <b>in progress</b></p>
 
