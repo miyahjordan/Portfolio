@@ -29,7 +29,12 @@
   <tr>
     <td><a href="https://github.com/miyahj/8-Week-SQL-Challenge">8-Week SQL Challenge*</a></td>
     <td>Data analysis, Data transformation, Data cleaning</td>
-    <td>Eight different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates by ability to write SQL queries to solve challenges.</td>
+    <td>Eight different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates my ability to write SQL queries to solve challenges.</td>
+  </tr>
+  <tr>
+    <td><a href="">COVID Layoff Data Cleaning Project</a></td>
+    <td>Data Cleaning</td>
+    <td>Utilized SQL and a kaggle dataset to optimize and clean a data set in conjunction with Alex the Analyst's Data Analyst Bootcamp. Demonstrates my ability to prepare data for analysis. </td>
   </tr>
 </table>
 
@@ -72,6 +77,20 @@
 </table>
 
 <br><h2 align="center"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" height= 25/>Tableau</h2>
+<table align="center">
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Dashboard Link</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+<br><h2 align="center"><img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" height= 25/>Power BI</h2>
 <table align="center">
   <tr>
     <th>Project Name</th>
