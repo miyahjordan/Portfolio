@@ -17,6 +17,10 @@
   <th>Description</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Intermediate%20SQL%20Queries">Intermediate SQL Queries</a></td>
+    <td>Data analysis, Data queries</td>
+    <td>Project completed at Calbright College to improve SQL queries. This project involves writing SQL queries and explaining the results for 5 different tasks. Demonstrates my ability to write and understand intermediate queries to solve tasks.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/miyahj/8-Week-SQL-Challenge">8-Week SQL Challenge*</a></td>
     <td>Data analysis, Data transformation, Data cleaning</td>
@@ -35,10 +39,6 @@
     <th>Project Name</th>
     <th>Description</th>
     <th>Dashboard Link</th>
-  </tr>
-  <td><a href="https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Intermediate%20SQL%20Queries">Intermediate SQL Queries</a></td>
-    <td>Data analysis, Data queries</td>
-    <td>Project completed at Calbright College to improve SQL queries. This project involves writing SQL queries and explaining the results for 5 different tasks. Demonstrates my ability to write and understand intermediate queries to solve tasks.</td>
   </tr>
   <tr>
     <td><a href='https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Data%20Presentation'>Data Presentation Project*</a></td>
