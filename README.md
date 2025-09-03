@@ -62,7 +62,7 @@
   <tr>
     <td>Medical Office Budget</td>
     <td>Completed at Calbright College to practice and utilize tools used in Google Sheets. Created a budget for a hypothetical medical office to practice creating, formatting, and managing documents in Google Sheets.</td>
-    <td><a href="https://docs.google.com/spreadsheets/d/10NeS6oJIZ7juxuD02VJngai98NqvmGuasVpxqI3358A/edit?usp=sharing"></a></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/10NeS6oJIZ7juxuD02VJngai98NqvmGuasVpxqI3358A/edit?usp=sharing">Dashboard</a></td>
   </tr>
   <tr>
     <td>Creating a Data Visualization Project</td>
