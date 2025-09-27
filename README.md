@@ -60,17 +60,17 @@
     <th>Dashboard Link</th>
   </tr>
   <tr>
-    <td>Medical Office Budget</td>
+    <td><a href="https://github.com/miyahjordan/Calbright-College-Portfolio-Projects/tree/main/Medical%20Office%20Budget%20Project#basic-monthly-budget-for-medical-office">Medical Office Budget</a></td>
     <td>Completed at Calbright College to practice and utilize tools used in Google Sheets. Created a budget for a hypothetical medical office to practice creating, formatting, and managing documents in Google Sheets.</td>
     <td><a href="https://docs.google.com/spreadsheets/d/10NeS6oJIZ7juxuD02VJngai98NqvmGuasVpxqI3358A/edit?usp=sharing">Dashboard</a></td>
   </tr>
   <tr>
-    <td>Creating a Data Visualization Project</td>
+    <td><a href="https://github.com/miyahjordan/Calbright-College-Portfolio-Projects/tree/main/Data%20Visualization%20for%20Acme%20Widgets">Data Visualization for Acme Widgets</a></td>
     <td>A project completed as a part of the Data Analysis certification program at Calbright College. Takes a Google spreadsheet filled with fake data and tasks with creating a scorecard chart and a horizontal bar graph. Demonstarates my ability to create a dashboard in Google Sheets.</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1U0gOwBLQoL_j66rM8ErJhDzlYZQh9_PR/edit?usp=sharing&ouid=107607730530146632722&rtpof=true&sd=true">Dashboard</a></td>
   </tr>
   <tr>
-    <td>Data Validation Project</td>
+    <td><a href="https://github.com/miyahjordan/Calbright-College-Portfolio-Projects/tree/main/Data%20Validation%20for%20OTR%20Region%20Sales">Data Validation for OTR Region Sales</a></td>
     <td>A project completed at Calbright College used to teach data validation. Demonstrates my alblity to use data validation techniques with Google Sheets.</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1IT8i8bo36YwlakAAXiM4qhUXYYqGsIrO/edit?usp=sharing&ouid=107607730530146632722&rtpof=true&sd=true">Dashboard</a></td>
   </tr>
