@@ -28,12 +28,12 @@
     <td>Eight different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates my ability to write SQL queries to solve challenges.</td>
   </tr>
   <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Sales%20Performance%20and%20Product%20Trend%20Analysis%20Dashboard'>Sales Performance and Product Trend Analysis Dashboard</a></td>
+    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Sales%20Performance%20and%20Product%20Trend%20Analysis%20Dashboard'>Sales Performance and Product Trend Analysis Dashboard*</a></td>
     <td>Data cleaning & transformations, Calculations & aggregations, Data visualization</td>
     <td>A bootcamp project meant to demonstrate SQL and PowerBI skills. Sales analytics are essential for nearly any company that sells products or services. Understanding trends, performance, and customer data is key for strategic decision-making.</td>
   </tr>
   <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare%5CClinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis</a></td>
+    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare%5CClinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis*</a></td>
     <td>Data anlysis, Data preparation, Exploratory data analysis, Data visualization</td>
     <td>A group project made to understand trends, performance, and customer data within the healthcare field.</td>
   </tr>
@@ -105,12 +105,12 @@
     <th>Dashboard Link</th>
   </tr>
   <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Sales%20Performance%20and%20Product%20Trend%20Analysis%20Dashboard'>Sales Performance and Product Trend Analysis Dashboard</a></td>
+    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Sales%20Performance%20and%20Product%20Trend%20Analysis%20Dashboard'>Sales Performance and Product Trend Analysis Dashboard*</a></td>
     <td>Data cleaning & transformations, Calculations & aggregations, Data visualization</td>
     <td>A bootcamp project meant to demonstrate SQL and PowerBI skills. Sales analytics are essential for nearly any company that sells products or services. Understanding trends, performance, and customer data is key for strategic decision-making.</td>
   </tr>
   <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare%5CClinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis</a></td>
+    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare%5CClinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis*</a></td>
     <td>Data anlysis, Data preparation, Exploratory data analysis, Data visualization</td>
     <td>A group project made to understand trends, performance, and customer data within the healthcare field.</td>
   </tr>
@@ -129,7 +129,7 @@
     <th>Dashboard Link</th>
   </tr>
 <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare%5CClinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis</a></td>
+    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare%5CClinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis*</a></td>
     <td>Data anlysis, Data preparation, Exploratory data analysis, Data visualization</td>
     <td>A group project made to understand trends, performance, and customer data within the healthcare field.</td>
   </tr>
