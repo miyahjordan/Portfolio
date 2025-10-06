@@ -7,7 +7,8 @@
   <a href="https://github.com/miyahj/Portfolio/blob/main/README.md#-sql">SQL</a>
   <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#-excel">Excel</a>
   <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#-google-sheets">Google Sheets</a>
-  <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#power-bi">Power BI</a>
+  <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#power-bi">PowerBI</a>
+  <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#python">Python</a>
 </p>
 
 <br><h2 align="center"> <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png" height=30/>SQL</h2>
