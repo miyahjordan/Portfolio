@@ -11,7 +11,7 @@
   <br><a href="https://github.com/miyahj/Portfolio/blob/main/README.md#python">Python</a>
 </p>
 
-<br><h2 align="center"> <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png" height=30/>SQL</h2>
+<br><h2 align="center"> <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png" height=30/> SQL</h2>
 <table align="center">
 <tr><th>Project Name</th>
   <th>Area of Analysis</th>
@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-<br><h2 align="center"><img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/144/small/python-icon-transparent-background-free-png.png" height= 25/>Python</h2>
+<br><h2 align="center"><img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/144/small/python-icon-transparent-background-free-png.png" height= 25/> Python</h2>
 <table align="center">
   <tr>
     <th>Project Name</th>
