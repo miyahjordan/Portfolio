@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare-Clinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis*</a></td>
-    <td>Data anlysis, Data preparation, Exploratory data analysis, Data visualization</td>
+    <td>Data analysis, Data preparation, Exploratory data analysis, Data visualization</td>
     <td>A group project made to understand trends, performance, and customer data within the healthcare field.</td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@
   </tr>
 <tr>
     <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare-Clinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis*</a></td>
-    <td>Data anlysis, Data preparation, Exploratory data analysis, Data visualization</td>
+    <td>Data analysis, Data preparation, Exploratory data analysis, Data visualization</td>
     <td>A group project made to understand trends, performance, and customer data within the healthcare field.</td>
   </tr>
   <tr>
