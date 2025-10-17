@@ -22,6 +22,9 @@
     <td>Data analysis, Data queries</td>
     <td>Project completed at Calbright College to improve SQL queries. This project involves writing SQL queries and explaining the results for 5 different tasks. Demonstrates my ability to write and understand intermediate queries to solve tasks.</td>
   </tr>
+  <td><a href='https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Data%20Presentation'>Video Game Sales Analysis and Forecasting*</a></td>
+    <td>Exploratorty analysis, Forecasting</td>
+    <td>Project completed at Calbright College to practice data presentation skills. A data set from Kaggle was selected to conduct data cleaning, analysis, and visualization to present findings. Presentation involved video recording to fully analyze presentation skills. Demonstrated my ability to work with fresh data, solve problems, create insights, and present to an audience.</td>
   <tr>
     <td><a href="https://github.com/miyahj/8-Week-SQL-Challenge">8-Week SQL Challenge*</a></td>
     <td>Data analysis, Data transformation, Data cleaning</td>
@@ -52,7 +55,7 @@
     <th>Dashboard Link</th>
   </tr>
   <tr>
-    <td><a href='https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Data%20Presentation'>Data Presentation Project*</a></td>
+    <td><a href='https://github.com/miyahj/Calbright-College-Portfolio-Projects/tree/main/Data%20Presentation'>Video Game Sales Analysis and Forecasting*</a></td>
     <td>Exploratorty analysis, Forecasting</td>
     <td>Project completed at Calbright College to practice data presentation skills. A data set from Kaggle was selected to conduct data cleaning, analysis, and visualization to present findings. Presentation involved video recording to fully analyze presentation skills. Demonstrated my ability to work with fresh data, solve problems, create insights, and present to an audience.</td>
   </tr>
