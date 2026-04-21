@@ -22,23 +22,10 @@
     <td>Data analysis, Data queries</td>
     <td>Project completed at Calbright College to improve SQL queries. This project involves writing SQL queries and explaining the results for 5 different tasks. Demonstrates my ability to write and understand intermediate queries to solve tasks.</td>
   </tr>
-  <td><a href='https://github.com/miyahjordan/Calbright-College-Portfolio-Projects/blob/main/Video%20Game%20Sales%20Analysis%20and%20Forecasting'>Video Game Sales Analysis and Forecasting*</a></td>
-    <td>Exploratorty analysis, Forecasting</td>
-    <td>Project completed at Calbright College to practice data presentation skills. A data set from Kaggle was selected to conduct data cleaning, analysis, and visualization to present findings. Presentation involved video recording to fully analyze presentation skills. Demonstrated my ability to work with fresh data, solve problems, create insights, and present to an audience.</td>
   <tr>
     <td><a href="https://github.com/miyahj/8-Week-SQL-Challenge">8-Week SQL Challenge*</a></td>
     <td>Data analysis, Data transformation, Data cleaning</td>
     <td>Eight different projects from the #8WeekSQLChallenge for intermediate to advanced SQL learners exploring data sets across various industries. Demonstrates my ability to write SQL queries to solve challenges.</td>
-  </tr>
-  <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Sales%20Performance%20and%20Product%20Trend%20Analysis%20Dashboard'>Sales Performance and Product Trend Analysis Dashboard*</a></td>
-    <td>Data cleaning & transformations, Calculations & aggregations, Data visualization</td>
-    <td>A bootcamp project meant to demonstrate SQL and PowerBI skills. Sales analytics are essential for nearly any company that sells products or services. Understanding trends, performance, and customer data is key for strategic decision-making.</td>
-  </tr>
-  <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare-Clinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis*</a></td>
-    <td>Data analysis, Data preparation, Exploratory data analysis, Data visualization</td>
-    <td>A group project made to understand trends, performance, and customer data within the healthcare field.</td>
   </tr>
   <tr>
     <td></td>
@@ -53,11 +40,6 @@
     <th>Project Name</th>
     <th>Description</th>
     <th>Dashboard Link</th>
-  </tr>
-  <tr>
-    <td><a href='https://github.com/miyahjordan/Calbright-College-Portfolio-Projects/blob/main/Video%20Game%20Sales%20Analysis%20and%20Forecasting'>Video Game Sales Analysis and Forecasting*</a></td>
-    <td>Exploratorty analysis, Forecasting</td>
-    <td>Project completed at Calbright College to practice data presentation skills. A data set from Kaggle was selected to conduct data cleaning, analysis, and visualization to present findings. Presentation involved video recording to fully analyze presentation skills. Demonstrated my ability to work with fresh data, solve problems, create insights, and present to an audience.</td>
   </tr>
   <tr>
     <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Exploratory%20Data%20Analysis%20-%20Workplace%20Fatalities'>Exploratory Data Analysis - Workplace Fatalities</a></td>
@@ -108,16 +90,6 @@
     <th>Dashboard Link</th>
   </tr>
   <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Sales%20Performance%20and%20Product%20Trend%20Analysis%20Dashboard'>Sales Performance and Product Trend Analysis Dashboard*</a></td>
-    <td>Data cleaning & transformations, Calculations & aggregations, Data visualization</td>
-    <td>A bootcamp project meant to demonstrate SQL and PowerBI skills. Sales analytics are essential for nearly any company that sells products or services. Understanding trends, performance, and customer data is key for strategic decision-making.</td>
-  </tr>
-  <tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare-Clinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis*</a></td>
-    <td>Data analysis, Data preparation, Exploratory data analysis, Data visualization</td>
-    <td>A group project made to understand trends, performance, and customer data within the healthcare field.</td>
-  </tr>
-  <tr>
     <td><a href=''></a></td>
     <td></td>
     <td></td>
@@ -130,11 +102,6 @@
     <th>Project Name</th>
     <th>Description</th>
     <th>Dashboard Link</th>
-  </tr>
-<tr>
-    <td><a href='https://github.com/miyahjordan/Quickstart-Bootcamp-Projects/tree/main/Capstone%20Project%20-%20Healthcare-Clinical%20Data%20Analysis'>Capstone Project - Healthcare/Clinical Data Analysis*</a></td>
-    <td>Data analysis, Data preparation, Exploratory data analysis, Data visualization</td>
-    <td>A group project made to understand trends, performance, and customer data within the healthcare field.</td>
   </tr>
   <tr>
     <td><a href=''></a></td>
